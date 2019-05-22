@@ -1,0 +1,11 @@
+
+                                            JAX RS – JAXB
+
+      JAXB (Java Architecture for XML Binding ) anlamina gelmektedir.
+
+         - Marshalling – Java objelerini -> XML e donusturme islemi
+
+         - Unmarshalling – XML icerigini Java objelererine donusturme islemi
+
+       Bu programdaki amacımız ise webs ervice Post metodu ile bodyu kısmında json gönderildiği
+      zaman gelen json u java nesnelereimizle eşlemek.
